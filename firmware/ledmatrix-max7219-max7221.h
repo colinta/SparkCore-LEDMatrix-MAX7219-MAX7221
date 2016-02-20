@@ -1,8 +1,6 @@
 #ifndef LEDMATRIX_h
 #define LEDMATRIX_h
 
-#include "Adafruit_GFX.h"
-
 class LEDMatrix : public Adafruit_GFX
 {
   public:
